@@ -1,89 +1,207 @@
-import HeatmapTable from "./heatmap-table.jsx";
-import { loadHeatmapData } from "../lib/heatmap.js";
+import Link from "next/link";
+import { Roboto } from "next/font/google";
 
-function formatRatio(value) {
-  if (!Number.isFinite(value)) {
-    return "0%";
-  }
-  return `${Math.round(value * 100)}%`;
-}
+const roboto = Roboto({
+  subsets: ["latin"],
+  weight: ["100", "300", "400"],
+  display: "swap",
+});
 
-export default function Page({ searchParams }) {
-  const batch = typeof searchParams?.batch === "string" ? searchParams.batch : undefined;
-  const data = loadHeatmapData(batch);
-
-  if (!data.columns.length) {
-    return (
-      <main className="app-shell">
-        <section className="hero">
-          <div>
-            <p className="pill">Roomberg Heatmap</p>
-            <h1 className="hero-title">No data found</h1>
-            <p className="hero-subtitle">
-              Add a batch under output_sheets or pass ?batch=YYYY_mon_dd.
-            </p>
-          </div>
-        </section>
-      </main>
-    );
-  }
-
-  const statLookup = Object.fromEntries(
-    data.stats.map((stat) => [stat.label, stat])
-  );
-  const avgCoverage = data.rows.length
-    ? data.rows.reduce((sum, row) => sum + row.coverage, 0) / data.rows.length
-    : 0;
+export default function Page() {
+  const matrixColumns = [
+    {
+      left: "4%",
+      duration: "18s",
+      delay: "-6s",
+      opacity: 0.8,
+      items: [
+        { text: "€", type: "currency" },
+        { text: "Hotel Aurora", type: "hotel" },
+        { text: "€189", type: "price" },
+        { text: "$", type: "currency" },
+        { text: "Sunline Tower", type: "hotel" },
+        { text: "$214", type: "price" },
+        { text: "£", type: "currency" },
+        { text: "Riverside Loft", type: "hotel" },
+        { text: "£172", type: "price" },
+      ],
+    },
+    {
+      left: "14%",
+      duration: "16s",
+      delay: "-3s",
+      opacity: 0.9,
+      items: [
+        { text: "USD", type: "currency" },
+        { text: "Grand Meridian", type: "hotel" },
+        { text: "$238", type: "price" },
+        { text: "€", type: "currency" },
+        { text: "Casa Verona", type: "hotel" },
+        { text: "€162", type: "price" },
+        { text: "GBP", type: "currency" },
+        { text: "Harborline", type: "hotel" },
+        { text: "£199", type: "price" },
+      ],
+    },
+    {
+      left: "26%",
+      duration: "20s",
+      delay: "-10s",
+      opacity: 0.85,
+      items: [
+        { text: "¥", type: "currency" },
+        { text: "Kyoto Gate", type: "hotel" },
+        { text: "¥19,800", type: "price" },
+        { text: "$", type: "currency" },
+        { text: "Midnight Plaza", type: "hotel" },
+        { text: "$201", type: "price" },
+        { text: "EUR", type: "currency" },
+        { text: "Baltic Hall", type: "hotel" },
+        { text: "€177", type: "price" },
+      ],
+    },
+    {
+      left: "38%",
+      duration: "15s",
+      delay: "-7s",
+      opacity: 0.92,
+      items: [
+        { text: "£", type: "currency" },
+        { text: "Old City Stay", type: "hotel" },
+        { text: "£146", type: "price" },
+        { text: "$", type: "currency" },
+        { text: "Atlas Court", type: "hotel" },
+        { text: "$189", type: "price" },
+        { text: "€", type: "currency" },
+        { text: "Lumen House", type: "hotel" },
+        { text: "€204", type: "price" },
+      ],
+    },
+    {
+      left: "52%",
+      duration: "19s",
+      delay: "-12s",
+      opacity: 0.78,
+      items: [
+        { text: "AED", type: "currency" },
+        { text: "Dune Palace", type: "hotel" },
+        { text: "AED 610", type: "price" },
+        { text: "$", type: "currency" },
+        { text: "Cove District", type: "hotel" },
+        { text: "$176", type: "price" },
+        { text: "EUR", type: "currency" },
+        { text: "Nordic Line", type: "hotel" },
+        { text: "€221", type: "price" },
+      ],
+    },
+    {
+      left: "64%",
+      duration: "17s",
+      delay: "-4s",
+      opacity: 0.9,
+      items: [
+        { text: "$", type: "currency" },
+        { text: "Orion Suites", type: "hotel" },
+        { text: "$209", type: "price" },
+        { text: "€", type: "currency" },
+        { text: "Port Light", type: "hotel" },
+        { text: "€187", type: "price" },
+        { text: "GBP", type: "currency" },
+        { text: "Queensway", type: "hotel" },
+        { text: "£168", type: "price" },
+      ],
+    },
+    {
+      left: "76%",
+      duration: "21s",
+      delay: "-9s",
+      opacity: 0.82,
+      items: [
+        { text: "€", type: "currency" },
+        { text: "Solstice", type: "hotel" },
+        { text: "€155", type: "price" },
+        { text: "$", type: "currency" },
+        { text: "Marina Deck", type: "hotel" },
+        { text: "$192", type: "price" },
+        { text: "JPY", type: "currency" },
+        { text: "Hikari Row", type: "hotel" },
+        { text: "¥22,900", type: "price" },
+      ],
+    },
+    {
+      left: "90%",
+      duration: "14s",
+      delay: "-5s",
+      opacity: 0.88,
+      items: [
+        { text: "$", type: "currency" },
+        { text: "Vista Line", type: "hotel" },
+        { text: "$231", type: "price" },
+        { text: "EUR", type: "currency" },
+        { text: "Marble Coast", type: "hotel" },
+        { text: "€213", type: "price" },
+        { text: "£", type: "currency" },
+        { text: "Iron Bridge", type: "hotel" },
+        { text: "£186", type: "price" },
+      ],
+    },
+  ];
 
   return (
-    <main className="app-shell">
-      <section className="hero">
-        <div>
-          <p className="pill">Roomberg Heatmap</p>
-          <h1 className="hero-title">Kuoni Pricing Pulse</h1>
-          <p className="hero-subtitle">
-            Batch {data.batchSlug} - {data.rows.length} hotels - {data.columns.length} stay dates
-          </p>
-        </div>
-        <div>
-          <p className="hero-subtitle">Search params</p>
-          <p className="pill">{data.searchParams}</p>
-        </div>
-      </section>
+    <main className={`landing ${roboto.className}`}>
+      <div className="lights" aria-hidden>
+        <div className="light x1"></div>
+        <div className="light x2"></div>
+        <div className="light x3"></div>
+        <div className="light x4"></div>
+        <div className="light x5"></div>
+        <div className="light x6"></div>
+        <div className="light x7"></div>
+        <div className="light x8"></div>
+        <div className="light x9"></div>
+      </div>
 
-      <section className="stats-grid">
-        <div className="stat-card">
-          <p className="stat-label">Coverage avg</p>
-          <p className="stat-value">{formatRatio(avgCoverage)}</p>
-          <p className="stat-meta">Based on NA and error flags</p>
-        </div>
-        <div className="stat-card">
-          <p className="stat-label">Has rate</p>
-          <p className="stat-value">{formatRatio(statLookup["has rate"]?.ratio)}</p>
-          <p className="stat-meta">{statLookup["has rate"]?.count ?? 0} cells</p>
-        </div>
-        <div className="stat-card">
-          <p className="stat-label">No market</p>
-          <p className="stat-value">{formatRatio(statLookup["no market"]?.ratio)}</p>
-          <p className="stat-meta">{statLookup["no market"]?.count ?? 0} cells</p>
-        </div>
-        <div className="stat-card">
-          <p className="stat-label">No rate</p>
-          <p className="stat-value">{formatRatio(statLookup["no rate"]?.ratio)}</p>
-          <p className="stat-meta">{statLookup["no rate"]?.count ?? 0} cells</p>
-        </div>
-        <div className="stat-card">
-          <p className="stat-label">Errors</p>
-          <p className="stat-value">{formatRatio(statLookup.error?.ratio)}</p>
-          <p className="stat-meta">{statLookup.error?.count ?? 0} cells</p>
-        </div>
-      </section>
+      <div className="matrix" aria-hidden>
+        {matrixColumns.map((column, columnIndex) => (
+          <div
+            className="matrix-column"
+            key={`matrix-column-${columnIndex}`}
+            style={{
+              "--column-left": column.left,
+              "--column-duration": column.duration,
+              "--column-delay": column.delay,
+              "--column-opacity": column.opacity,
+            }}
+          >
+            {column.items.map((item, itemIndex) => (
+              <span
+                className={`matrix-item ${item.type}`}
+                key={`matrix-item-${columnIndex}-${itemIndex}`}
+                style={{ "--item-delay": `${itemIndex * 0.35}s` }}
+              >
+                {item.text}
+              </span>
+            ))}
+          </div>
+        ))}
+      </div>
 
-      <HeatmapTable columns={data.columns} rows={data.rows} />
+      <div className="landing-content">
+        <p id="head5" className="header">
+          Welcome to Roomberg
+        </p>
 
-      <p className="table-footnote">
-        Data source: output_sheets/{data.batchSlug}/pricing_hotels_all.csv
-      </p>
+        <div className="landing-actions">
+          <Link href="/heatmap" className="landing-button">
+            Heatmap
+          </Link>
+          <Link href="/start-job" className="landing-button">
+            Jobs
+          </Link>
+        </div>
+      </div>
+
+      <p id="footer">BA designs</p>
     </main>
   );
 }
