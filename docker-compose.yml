@@ -1,0 +1,24 @@
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      - NODE_ENV=production
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./output_sheets:/app/output_sheets:ro
+      - ./reference_sheets:/app/reference_sheets:ro
+  web-dev:
+    image: node:20-alpine
+    working_dir: /app/web
+    command: sh -c "npm install --no-audit --no-fund --no-package-lock && npm run dev -- -H 0.0.0.0"
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./web:/app/web
+      - ./output_sheets:/app/output_sheets:ro
+      - ./reference_sheets:/app/reference_sheets:ro
+    profiles:
+      - dev

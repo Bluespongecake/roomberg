@@ -1,0 +1,699 @@
+hmid,hotel_name,city,latitude,longitude,brand,number_of_rooms,stars
+25511305,Scandic Aarhus City,Aarhus,56.154270,10.205400,Scandic Hotels,228,4
+26856721,Chalet-Hotel Beau-Site,Adelboden,46.493957,7.561651,,36,4.5
+25465521,The 1932 Hotel & Spa Cap d'Antibes - MGallery Collection,Antibes,43.566277,7.117099,MGallery,64,4.0
+25453168,Hotel Euler,Basel,47.548588,7.590110,Manz Privacy Hotels,66,4
+25507017,City Inn Basel,Basel,47.548910,7.589880,Manz Privacy Hotels,30,3
+25445213,Bellevue Palace Hotel,Bern,46.946710,7.446665,,126,5
+25489472,Holiday Inn BERN-WESTSIDE by IHG,Bern,46.944125,7.374119,Holiday Inn,144,4
+25437332,InterContinental Budapest by IHG,Budapest,47.497547,19.047787,InterContinental Hotels & Resorts,402,5
+25437338,InterContinental Berlin by IHG,Berlin,52.506939,13.345484,InterContinental Hotels & Resorts,558,5
+25437399,Novotel Amsterdam City,Amsterdam,52.334238,4.888436,Novotel,610,4.5
+25437401,Moxy Barcelona,Barcelona,41.379430,2.142680,Moxy,414,4
+25437491,"Radisson Blu Beke Hotel, Budapest",Budapest,47.508181,19.059453,Radisson Blu,247,4.5
+25438709,Stormont Hotel,Belfast,54.594532,-5.839062,Hastings Hotels,106,4
+25438838,Mercure Paris Boulogne,Boulogne-Billancourt,48.833697,2.256466,Mercure,191,4
+25439286,Scandic Byparken,Bergen,60.390095,5.323932,Scandic Hotels,159,3.5
+25440317,Hilton Budapest,Budapest,47.502647,19.033478,Hilton Hotels,332,4.5
+25440839,Holiday Inn Birmingham City Centre by IHG,Birmingham,52.475725,-1.899216,Holiday Inn,262,4.0
+25441126,Warwick Grand-Place Brussels,Brussels,50.845141,4.354347,Warwick International Hotels,267,4
+25441560,Mercure Budapest Castle Hill,Budapest,47.498902,19.026990,Mercure,390,4
+25441960,Novotel Paris Est Centre De Conference,Bagnolet,48.863331,2.415115,Novotel,609,4
+25441971,ibis Styles Avignon Sud,Avignon,43.926279,4.844330,ibis Styles,121,3
+25443248,Mercure Bordeaux Château Chartrons,Bordeaux,44.859206,-0.569377,Mercure,215,4
+25443572,Hotel Alimara,Barcelona,41.433871,2.147398,,154,4
+25443952,INNSiDE by Melia Barcelona Apolo,Barcelona,41.374642,2.170767,Innside by Meliá,314,4
+25444011,NH Sants Barcelona,Barcelona,41.384585,2.137844,NH Hotels,203,4
+25444697,Danubius Hotel Helia,Budapest,47.525605,19.055818,Danubius Hotels,262,4
+25445043,Melia Barcelona Sarrià,Barcelona,41.390847,2.141677,Meliá,321,5
+25445786,Novotel Budapest City,Budapest,47.488564,19.023739,Novotel,319,4.5
+25445944,harry's home Berlin Moabit,Berlin,52.525364,13.341825,,73,3
+25446958,InterContinental Barcelona by IHG,Barcelona,41.372680,2.155007,InterContinental Hotels & Resorts,273,5
+25447421,NH Brussels Grand Place Arenberg,Brussels,50.848487,4.357429,NH Hotels,155,4
+25448397,Belstay Milano Assago,Assago,45.401222,9.120630,Holiday Inn,203,4.0
+25448853,Novotel Bordeaux Centre Gare Saint Jean,Bordeaux,44.829743,-0.559424,Novotel,99,4
+25449424,Scandic Berlin Kurfürstendamm,Berlin,52.500127,13.338367,Scandic Hotels,217,4
+25449763,Hotel Abades Benacazon,Benacazón,37.359737,-6.199209,,195,4
+25450308,Hotel Berlin Lichtenberg,Berlin,52.533353,13.517566,Comfort Inn,120,0.0
+25451673,Kempinski Hotel Corvinus Budapest,Budapest,47.497303,19.052425,Kempinski Hotels,351,5
+25453015,NH Brugge Hotel,Bruges,51.203953,3.216875,NH Hotels,149,4
+25453160,Verdi Budapest Aquincum,Budapest,47.537552,19.046530,Corinthia Hotels,310,4
+25453686,Quality Hotel Brno Exhibition Centre,Brno,49.184208,16.580627,Quality Hotels,200,4.5
+25455311,K+K Hotel Opera Budapest,Budapest,47.502252,19.057868,K + K Hotels,200,4
+25458113,Scandic Bergen City,Bergen,60.391324,5.317672,Scandic Hotels,262,4
+25458148,Novotel Lausanne Bussigny,Bussigny,46.556326,6.560946,Novotel,141,4
+25458389,Leonardo Hotel Budapest,Budapest,47.481685,19.072799,Leonardo Hotels,182,3.0
+25459328,Campanile Paris Est - Porte de Bagnolet,Bagnolet,48.865546,2.417213,Campanile,274,3
+25460188,Martin's Brugge,Bruges,51.207547,3.225510,Martins,199,3.5
+25462009,Hotel ibis Schiphol Amsterdam Airport,Badhoevedorp,52.325180,4.793603,ibis,644,3
+25462024,Dorint An der Kongresshalle Augsburg,Augsburg,48.359414,10.885912,Dorint Hotels & Resorts,184,4.0
+25462302,Mercure Amsterdam City,Amsterdam,52.335183,4.913743,Mercure,368,4.5
+25462372,Crowne Plaza Belfast by IHG,Belfast,54.550735,-5.947837,Crowne Plaza,153,4
+25462376,NH Amsterdam Schiphol Airport,Amsterdam,52.289681,4.724941,NH Hotels,419,4.5
+25463668,H10 Itaca,Barcelona,41.381063,2.145502,H10 Hotels,95,4
+25464999,Barceló Sants,Barcelona,41.379031,2.139737,Barceló Hotels,378,4
+25465045,Radisson Blu Hotel Amsterdam Airport Schiphol,Amsterdam,52.277699,4.749967,Radisson Blu,263,4.5
+25466946,Corinthia Budapest,Budapest,47.502645,19.066772,Corinthia Hotels,437,4.5
+25468816,Hotel Barsey by Warwick,Brussels,50.820434,4.370102,Warwick International Hotels,99,4
+25469694,NH Budapest City,Budapest,47.512889,19.052130,NH Hotels,160,4.5
+25470277,Occidental Atenea Mar- Adults Only,Barcelona,41.402690,2.212179,Occidental Hotels & Resorts,191,4
+25470912,H10 Marina Barcelona,Barcelona,41.393060,2.192580,H10 Hotels,235,4
+25471190,Ramada by Wyndham Valencia Almussafes,Almussafes,39.313707,-0.419420,Ramada Worldwide,133,3
+25472035,Jr Hotels Gigli Firenze,Calenzano,43.844324,11.159475,,92,4
+25472083,Mercure Avignon Gare TGV,Avignon,43.928543,4.784357,Mercure,113,3
+25473461,JW Marriott Hotel Berlin,Berlin,52.507159,13.363395,JW Marriott,505,0.0
+25476642,Crowne Plaza Budapest by IHG,Budapest,47.512925,19.058082,Crowne Plaza,230,4.5
+25480806,Novotel Milan Malpensa Airport,Cardano al Campo,45.641166,8.758787,Novotel,208,4
+25487652,Four Points by Sheraton Bolzano,Bolzano,46.471839,11.324973,Four Points,189,4
+25490952,NH Amsterdam Zuid,Amsterdam,52.326672,4.879970,NH Hotels,213,4.5
+25495717,Ramada by Wyndham Cambridge,Cambridge,52.269291,-0.008841,Ramada Worldwide,81,3
+25499397,Mercure Lisboa Almada,Almada,38.670846,-9.171030,Mercure,106,4
+25502422,BV Grand Hotel Assisi,Assisi,43.060240,12.629792,,155,4
+25502602,Mercure Hotel MOA Berlin,Berlin,52.531884,13.344001,Mercure,336,4
+25506066,Novotel Avignon Centre,Avignon,43.942746,4.802265,Novotel,130,4
+25506774,Hotel Delta Florence,Calenzano,43.850846,11.168686,,243,4
+25506851,Best Western Plus Sthlm Bromma,Bromma,59.358080,17.948040,Best Western Plus,202,4
+25520848,ibis Milano Malpensa Aeroporto,Cardano Al Campo,45.643468,8.760875,ibis,188,3
+25527461,Pullman Brussels Centre Midi,Brussels,50.837100,4.335200,Pullman Hotels & Resorts,237,4.0
+25902381,Scandic Asker,Asker,59.834628,10.441177,Scandic Hotels,167,4
+26137261,Scandic Glostrup,Brøndby,55.668349,12.419277,Scandic Hotels,120,3
+26517721,Hotel Bären Am Bundesplatz,Bern,46.947470,7.443097,Best Western Hotels & Resorts,69,4
+26809741,Hôtel Lou Castelet,Carros,43.771239,7.200081,,61,4.0
+27303321,Hyatt Place Amsterdam Airport,Amsterdam,52.293400,4.716097,Hyatt Place,330,4.5
+29173201,Best Western Plus Suitcase Paris La Defense,Bois-Colombes,48.911363,2.271953,Best Western Plus,112,4
+30295469,"Modern Times Hotel, Vevey, a Tribute Portfolio Hotel",Blonay – Saint-Légier,46.469412,6.862520,,136,4
+30296476,Courtyard by Marriott Brno,Brno,49.181770,16.605881,Courtyard by Marriott,201,4
+30305466,Mercure Belfort Centre,Belfort,47.645198,6.863032,Mercure,76,4
+30391013,SOWELL HÔTELS Les Chevaliers,Carcassonne,43.211455,2.357834,Hilton Hotels,90,4
+30499884,Radisson Blu Hotel Bruges,Bruges,51.195342,3.220044,Radisson Blu,109,4
+30504801,"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia",Barcelona,41.404009,2.169385,Radisson Blu,182,4
+30506133,a&o Brussel Centrum,Brussels,50.864917,4.359018,A&O Hostels ,296,2
+30526226,Hotel Rainers21,Brunn Am Gebirge,48.114608,16.296446,,174,4
+30553966,AC Hotel by Marriott Berlin Humboldthain Park,Berlin,52.549750,13.383550,AC by Marriott,132,4
+30587463,SOWELL COLLECTION Hôtel du Roi & SPA,Carcassonne,43.211370,2.357780,Motel 6,88,5
+30616276,Radisson Hotel Antwerp Berchem,Antwerp,51.200070,4.433861,Radisson,142,4.0
+30631443,nhow Amsterdam RAI,Amsterdam,52.338887,4.890328,nhow,650,4.5
+30654539,Kviknes Hotel,Balestrand,61.209180,6.536530,,26,4
+30663341,Le Bois De Bruges,Bruges,51.204630,3.216900,,86,4
+30844175,Inntel Hotels Amsterdam Landmark,Amsterdam,52.373440,4.928440,,306,4.5
+31080680,Radisson Collection Bilbao,Bilbao,43.261000,-2.927000,,137,5
+31137923,The Hoxton Brussels,Brussels,50.855715,4.363274,,198,4
+31195655,Courtyard By Marriott Biel/Bienne,Biel,47.135878,7.249049,,104,4
+hmid,hotel_name,city,latitude,longitude,brand,number_of_rooms,stars
+25446953,Hotel Granada Center,Granada,37.179210,-3.608087,Hoteles Center,169,4
+25437708,Scandic Lillehammer Hotel,Lillehammer,61.117750,10.477400,Scandic Hotels,303,4
+25438540,Radisson Blu Hotel,Lisbon,38.759434,-9.153880,Radisson Blu,221,4
+25438613,Leonardo Royal Hotel Frankfurt,Frankfurt,50.091383,8.690609,Leonardo Hotels,449,0.0
+25440289,Hotel Albani Firenze,Florence,43.777079,11.250152,,101,4
+25440519,"Anglo American Hotel Florence, Curio Collection by Hilton",Florence,43.775111,11.240768,Curio Collection by Hilton,118,5.0
+25440769,"Lindner Hotel Frankfurt Hochst, part of JdV by Hyatt",Frankfurt,50.101712,8.553331,Joie de Vivre Hotels,303,4.0
+25440852,Scandic Kaisaniemi,Helsinki,60.171667,24.947866,Scandic Hotels,123,3
+25440925,Leonardo Hotel Köln,Cologne,50.947930,7.006048,Leonardo Hotels,165,3.0
+25441008,Le Méridien Frankfurt,Frankfurt,50.105782,8.666199,Le Meridien,300,5
+25441037,Mövenpick Zürich Airport,Glattbrugg,47.439315,8.568781,Mövenpick Hotels & Resorts,333,4
+25441094,Warwick Geneva,Geneva,46.210852,6.144392,Warwick International Hotels,167,4
+25441237,Lutecia Smart Design Hotel,Lisbon,38.746067,-9.138914,,175,4
+25441426,NH Dresden Neustadt,Dresden,51.074282,13.738752,NH Hotels,269,4
+25441435,Steigenberger Icon Frankfurter Hof,Frankfurt,50.110141,8.675814,Steigenberger Hotels,303,5.0
+25442148,Alphotel Innsbruck,Innsbruck,47.264997,11.428850,,136,4
+25443113,Maritim Hotel Frankfurt,Frankfurt,50.112918,8.649872,Maritim Hotels,542,0.0
+25443382,Novotel Krakow City West,Kraków,50.070058,19.897916,Novotel,305,4
+25443626,Mercure Le Havre Centre Bassin du Commerce,Le Havre,49.490280,0.116959,Mercure,99,4
+25443879,Scandic Palace Hotel,Copenhagen,55.676217,12.570274,Scandic Hotels,169,4
+25444161,Hilton Dresden an der Frauenkirche,Dresden,51.052446,13.740691,Hilton Hotels,333,4
+25444856,Scandic Kallio,Helsinki,60.186866,24.948221,Scandic Hotels,121,3
+25445021,Holiday Inn Gloucester-Cheltenham by IHG,Gloucester,51.864508,-2.193758,Holiday Inn,125,3
+25445430,"Hotel Coimbra Aeminium, Affiliated by Meliá",Coimbra,40.215883,-8.413863,Meliá,126,4
+25445619,7Hotel&Spa,Illkirch-Graffenstaden,48.523043,7.739021,Best Western Hotels & Resorts,137,4
+25445632,Hotel Continental,Lausanne,46.517477,6.630045,Manz Privacy Hotels,115,4
+25445792,Mövenpick Hotel München Airport,Hallbergmoos,48.331626,11.742450,Mövenpick Hotels & Resorts,165,4
+25446178,Bilderberg Bellevue Hotel Dresden,Dresden,51.058346,13.739482,Westin,340,4
+25446385,Vienna House by Wyndham Thüringer Hof Eisenach,Eisenach,50.975543,10.324906,Wyndham Hotels,127,0.0
+25447504,Doubletree by Hilton Coventry,Coventry,52.436844,-1.433181,DoubleTree by Hilton,172,4
+25448255,Best Western Hotel Hebron,Copenhagen,55.672595,12.560795,Best Western Hotels & Resorts,99,3.5
+25448318,The Jangle Hotel - Paris - Charles de Gaulle - Airport,Le Mesnil-Amelot,49.022053,2.599701,,240,4.0
+25448557,FH55 Grand Hotel Mediterraneo,Florence,43.766108,11.272155,FH Hotels,327,4
+25448708,Delta Hotels by Marriott Edinburgh,Edinburgh,55.940041,-3.312356,Delta Hotels,245,4
+25449861,Scandic Ambassadeur Drammen,Drammen,59.739807,10.200634,Scandic Hotels,230,4
+25450461,Courtyard by Marriott Linz,Linz,48.298148,14.304894,Courtyard by Marriott,236,4.5
+25450821,"Holiday Inn Coventry M6, Jct.2 by IHG",Coventry,52.431130,-1.435991,Holiday Inn,158,3
+25451862,Grand Hotel Beau Rivage Interlaken,Interlaken,46.689648,7.864612,Hyatt Hotels,101,0.0
+25452087,Holiday Inn Helsinki West- Ruoholahti by IHG,Helsinki,60.164668,24.910437,Holiday Inn,256,3.0
+25452807,Scandic Kemi,Kemi,65.737520,24.557314,Scandic Hotels,184,4
+25452890,Hotel Metropole Interlaken,Interlaken,46.685970,7.856389,Swiss Quality Hotels,96,4
+25453544,Scandic Copenhagen,Copenhagen,55.675123,12.559379,Scandic Hotels,486,4
+25453715,Scandic Gdansk,Gdansk,54.355499,18.646625,Scandic Hotels,143,4
+25453982,Mövenpick Hotel Egerkingen,Egerkingen,47.326516,7.804825,Mövenpick Hotels & Resorts,137,4
+25453983,Mövenpick Hotel Geneva,Genf,46.224276,6.101055,Mövenpick Hotels & Resorts,350,4.5
+25454835,NH Leipzig Messe,Leipzig,51.402465,12.390121,NH Hotels,308,4.0
+25455661,Quick Hotel Dresden West,Kesselsdorf,51.039653,13.600662,,126,3
+25455663,NH Hirschberg Heidelberg,Hirschberg,49.494727,8.655611,NH Hotels,114,4
+25456743,Mövenpick Hotel Lausanne,Lausanne,46.508065,6.624360,Mövenpick Hotels & Resorts,337,4.5
+25457055,Corinthia Lisbon,Lisbon,38.738871,-9.166428,Corinthia Hotels,518,5
+25457749,Novotel Brussels Airport,Diegem,50.893155,4.461637,Novotel,209,3.5
+25458158,INNSiDE by Meliá Barcelona Aeropuerto,El Prat de Llobregat,41.312424,2.068313,Innside by Meliá,410,4
+25458170,Fuerther Hotel Mercure Nuernberg West,Fuerth,49.482008,11.003317,Mercure,129,4
+25458236,Novotel Zurich Airport Messe,Glattpark,47.425561,8.560050,Novotel,255,4
+25458388,Lisbon Marriott Hotel,Lisbon,38.747198,-9.164194,Marriott,577,4
+25458510,Leonardo Hotel Heidelberg,Heidelberg,49.387183,8.661395,Leonardo Hotels,169,4
+25458517,Mercure Hotel Garmisch-Partenkirchen,Garmisch-Partenkirchen,47.491105,11.112552,Mercure,117,2.5
+25458748,Mercure Paris Le Bourget,Le Blanc-Mesnil,48.953029,2.451797,Mercure,145,4
+25458753,Novotel Paris Créteil Le Lac,Creteil,48.780600,2.447268,Novotel,110,4
+25458765,Big Sky Hotel & Spa,Chamonix Mont-Blanc,45.899118,6.829022,,89,4
+25458831,Mercure Paris Val de Fontenay,Fontenay Sous Bois,48.854309,2.488269,Mercure,133,4
+25459017,Mercure Hotel & Residenz Frankfurt Messe,Frankfurt,50.116812,8.638992,Mercure,424,4.5
+25459018,Mercure Hotel Severinshof Köln City,Cologne,50.929715,6.956588,Mercure,253,4
+25459169,Crowne Plaza Hotel Glasgow by IHG,Glasgow,55.859701,-4.290365,Crowne Plaza,283,4
+25459171,Crowne Plaza Harrogate by IHG,Harrogate,53.997387,-1.541059,Crowne Plaza,214,4
+25459194,"Radisson Blu Hotel, Espoo",Espoo,60.183990,24.836428,Radisson Blu,209,4
+25459327,Olissippo Marquês de Sá,Lisbon,38.736486,-9.151789,,164,4
+25459878,Hotel Roma,Lisbon,38.745706,-9.140341,,263,3
+25459980,ibis Paris Porte de Bercy,Charenton-le-Pont,48.825337,2.393942,ibis,156,3.0
+25460462,"Falkenstein Grand, an Autograph Collection Hotel",Königstein im Taunus,50.192077,8.479831,Autograph Collection Hotels,112,5
+25462337,"Radisson Blu Seaside Hotel, Helsinki",Helsinki,60.161788,24.924647,Radisson Blu,349,4
+25463521,"Dom Pedro Lisboa Hotel, a member of Radisson Individuals",Lisbon,38.724817,-9.160367,Dom Pedro Hotels,262,5
+25463652,Hilton Garden Inn Glasgow City Centre,Glasgow,55.857961,-4.282608,Hilton Garden Inn,164,4
+25463723,NH Brussels Airport,Diegem,50.888895,4.446912,NH Hotels,234,4
+25464009,Hotel Raffaello,Florence,43.797708,11.242179,,140,4
+25464159,Hotel Macià Alfaros,Córdoba,37.886110,-4.776300,Macia Hotels,144,4
+25466974,Elite Park Avenue Hotel,Gothenburg,57.698413,11.978241,Elite Hotels of Sweden,325,4.5
+25467332,The Square,Copenhagen,55.676199,12.566857,Arp-Hansen Hotel Group,268,3.5
+25467757,Ramada by Wyndham Lisbon,Lisbon,38.739601,-9.124251,Ramada Worldwide,300,4
+25468420,Porcel Sabica,Granada,37.169684,-3.603697,Hoteles Porcel,117,4
+25468425,Hotel Porcel Alixares,Granada,37.172701,-3.582978,Hoteles Porcel,200,4
+25468735,Scandic Europa,Gothenburg,57.708102,11.970297,Scandic Hotels,456,4
+25468814,Scandic Grand Marina,Helsinki,60.165703,24.964799,Scandic Hotels,470,4
+25468820,Scandic Winn,Karlstad,59.382944,13.504794,Scandic Hotels,199,3
+25468852,Scandic Webers,Copenhagen,55.673176,12.560972,Scandic Hotels,152,4
+25470546,Alexandre Fira Congress,L'Hospitalet de Llobregat,41.352162,2.127493,,160,4
+25471187,ibis Luxembourg Sud,Livange,49.532629,6.112139,ibis,105,3
+25472080,Towers Hotel Stabiae Sorrento Coast,Castellammare Di Stabia,40.688058,14.450685,Crowne Plaza,150,4
+25473032,UNA Hotels Malpensa,Cerro Maggiore,45.601031,8.946017,Una Hotels,160,4
+25473316,Novotel Le Havre Centre Gare,Le Havre,49.491607,0.125052,Novotel,128,4
+25474377,Le Relais Saint Michel,Le Mont-Saint-Michel,48.617786,-1.510347,,39,4
+25474522,Renaissance London Heathrow Hotel,Hounslow,51.480521,-0.446550,Renaissance Hotels,710,4
+25474628,DoubleTree by Hilton Florence Metropole,Florence,43.773495,11.189865,DoubleTree by Hilton,212,4
+25474651,Sunstar Hotel Grindelwald,Grindelwald,46.623756,8.041413,,219,4
+25475043,Hôtel Les Aiglons Chamonix,Chamonix-Mont-Blanc,45.916799,6.867721,,107,4
+25475109,VIP Executive Art's Hotel,Lisbon,38.773046,-9.097921,VIP Executive,300,4
+25475119,Luitpoldpark Hotel,Füssen,47.569856,10.698602,,131,4.0
+25475333,Crowne Plaza Geneva by IHG,Cointrin,46.224867,6.106875,Crowne Plaza,366,4.5
+25475403,Occidental Paris Levallois,Levallois-Perret,48.898422,2.281562,Occidental Hotels & Resorts,338,4
+25475573,Riessersee Hotel,Garmisch-Partenkirchen,47.479918,11.080951,,152,4
+25475805,Ramada by Wyndham Dresden,Dresden,51.008179,13.768148,Ramada Worldwide,262,4.0
+25476748,AC Hotel by Marriott Innsbruck,Innsbruck,47.262516,11.395660,AC by Marriott,187,4
+25477018,Barceló Granada Congress,Granada,37.167080,-3.607835,Barceló Hotels,253,5
+25477126,Copenhagen Island Hotel,Copenhagen,55.663414,12.563328,Arp-Hansen Hotel Group,326,4.5
+25477774,Hotel Union Geiranger Bad & Spa,Geiranger,62.096637,7.210557,,197,4
+25478188,Hotel TRH Paraiso,Estepona,36.476075,-5.028895,TRH Hotels,171,4
+25478444,Hotel Córdoba Center,Cordoba,37.892221,-4.783741,Hoteles Center,208,4
+25478776,Mövenpick Hotel Frankfurt City,Frankfurt,50.109791,8.651041,Mövenpick Hotels & Resorts,288,4.0
+25479082,Pullman Paris La Défense,Courbevoie,48.894963,2.239226,Pullman Hotels & Resorts,382,5
+25479306,Clarion Congress Hotel Ceske Budejovice,Ceske Budejovice,48.981920,14.472623,Clarion,205,4
+25479367,Grand Hotel Park,Dubrovnik,42.655274,18.073002,,244,4
+25479803,Hotel TRH La Motilla,Dos Hermanas,37.287987,-5.944143,TRH Hotels,101,4
+25480846,Hotel Macià Real de La Alhambra,Granada,37.163458,-3.570744,Macia Hotels,185,4
+25481634,Novotel Paris La Défense Esplanade,La Défense,48.887901,2.252944,Novotel,280,4
+25481957,Hotel Abades Nevada Palace,Granada,37.152125,-3.591533,,235,4
+25484878,VIP Grand Lisboa Hotel & Spa,Lisbon,38.742254,-9.149259,VIP Grand,295,5
+25485050,Best Western Plus Hotel Le Favaglie,Cornaredo,45.486991,9.031153,Best Western Plus,112,4
+25486765,Van Der Valk Hotel Brussels Airport,Diegem,50.887570,4.452687,Van der Valk Hotels,246,4
+25488170,Melia Granada Hotel,Granada,37.173132,-3.598427,Meliá,181,4
+25488406,Nilhotel Firenze,Florence,43.799053,11.227011,,246,4
+25488912,Just Hotel Lomazzo Fiera,Lomazzo,45.709866,9.024941,,188,4
+25488957,Hotel Sao Jose,Fatima,39.628712,-8.676637,,76,4
+25489046,Novotel Geneve Centre,Geneva,46.211433,6.147362,Novotel,206,4
+25489234,Novotel Krakow Centrum,Kraków,50.054766,19.925977,Novotel,198,4
+25490758,Macdonald Old England Hotel & Spa,Cumbria,54.364127,-2.921961,Macdonald Hotels & Resorts,106,4
+25492807,Hotel More,Dubrovnik,42.657162,18.066158,,76,5
+25493783,DoubleTree by Hilton Hotel Leeds City Centre,Leeds,53.793263,-1.549846,DoubleTree by Hilton,333,4
+25493869,Ramada by Wyndham Chorley South,Chorley,53.630192,-2.692372,Ramada Worldwide,72,2
+25496850,Scandic Hakaniemi,Helsinki,60.179048,24.949679,Scandic Hotels,152,3.5
+25497278,Scandic Oslo Airport,Gardermoen,60.185668,11.064646,Scandic Hotels,243,4
+25500790,Holiday Inn Milan Nord Zara by IHG,Cinisello Balsamo,45.553029,9.241951,Holiday Inn,128,4
+25501473,ibis Paris Issy Les Moulineaux Val de Seine,Issy-les-Moulineaux,48.822411,2.257782,ibis,164,3
+25504226,NH Stuttgart Airport,Filderstadt,48.661418,9.223858,NH Hotels,208,4
+25504937,AC Hotel Bella Sky Copenhagen,Copenhagen,55.639400,12.578182,AC by Marriott,811,4.5
+25505957,Hotel Indigo Liverpool City Centre by IHG,Liverpool,53.407875,-2.993361,Hotel Indigo,151,4
+25506839,Scandic Paasi,Helsinki,60.178580,24.948078,Scandic Hotels,170,4
+25507044,ibis budget Brussels Airport,Diegem,50.882277,4.437027,ibis Budget,187,4
+25516461,Hilton Garden Inn Davos,Davos,46.801523,9.832259,Hilton Garden Inn,146,4
+25520679,Thermalhotels & Walliser Alpentherme Spa,Leukerbad,46.378727,7.629940,Lindner Hotels & Resorts,135,3.5
+25521933,Royal St. Georges Hotel Interlaken - MGallery Collection,Interlaken,46.688784,7.862719,MGallery,98,4.5
+25539521,AlpenGold Davos,Davos,46.813101,9.852976,,216,5
+25608981,Crowne Plaza Caparica Lisbon by IHG,Costa da Caparica,38.648000,-9.224570,Crowne Plaza,227,4
+25921921,M Hotel Ljubljana,Ljubljana,46.068583,14.488832,,147,4.0
+26021821,Scandic Sydhavnen,Copenhagen,55.654487,12.541333,Scandic Hotels,391,4
+26095701,SwissEver Zug Swiss Quality Hotel,Cham,47.191622,8.447429,Swiss Quality Hotels,125,3
+26112601,Hilton Geneva Hotel and Conference Centre,Le Grand-Saconnex,46.236348,6.119417,Hilton Hotels,496,4.5
+26134001,Scandic Simonkenttä,Helsinki,60.168991,24.935102,Scandic Hotels,360,4
+26181741,Scandic Park Helsinki,Helsinki,60.179066,24.927828,Scandic Hotels,523,4
+26201001,Hôtel De la Paix,Lausanne,46.519232,6.636606,Lexington Hotels,109,4
+26201101,Hotel Ruze & Wellness,Český Krumlov,48.810352,14.317589,,70,5
+26208221,Comfort Hotel Vesterbro,Copenhagen,55.672872,12.559040,Nordic Hotels,400,3
+26227941,Original Sokos Hotel Vaakuna Helsinki,Helsinki,60.170555,24.938900,Sokos Hotels,340,4.0
+26228281,Hotel Hirsch,Füssen,47.569208,10.702621,,71,4
+26246221,Hotel Terrace,Engelberg,46.822918,8.400780,,170,3
+26261201,Hotel Cornavin,Genf,46.209434,6.141848,,78,4
+26364861,Orizzonte Hotel Letojanni,Letojanni,37.878455,15.305382,,42,4
+26410481,Break Sokos Hotel Levi,Levi,67.805926,24.804948,Sokos Hotels,202,4
+26539143,Dorint Airport-Hotel Zürich,Glattbrugg,47.438523,8.565523,Dorint Hotels & Resorts,235,4
+26652461,"Hotel Valaisia Crans Montana, a Faern Collection Resort",Crans-Montana,46.313774,7.481169,,134,4
+26719461,IntercityHotel Ingolstadt,Ingolstadt,48.744892,11.436414,IntercityHotels,144,0.0
+26727841,bigBOX ALLGÄU Hotel,Kempten,47.720508,10.316548,,124,4
+26858621,Santa's Resort & Spa Hotel Sani,Kalajoki,64.232553,23.811075,,72,4
+26872141,Taste Hotel Dresden,Dresden,51.059653,13.679143,Ringhotels,124,4
+27173321,Romantik Hotel Schweizerhof,Grindelwald,46.625560,8.031861,Romantik Hotels,70,5
+27226741,Promotel Carros,Carros,43.767953,7.203800,,84,3
+27336121,Dorsett Shepherds Bush,London,51.503915,-0.224383,Dorsett Hotels & Resorts,317,4
+27768981,Wellness Hotel Jean De Carro,Karlovy Vary,50.223502,12.884967,,30,4.0
+28410061,Spa Hotel Vita,Ceské Budejovice,48.980858,14.472779,,75,4
+29152901,Appart'hôtel Odalys City - Dijon Centre Les Cordeliers,Dijon,47.318342,5.040223,Odalys,74,4.0
+29188261,Aquatis Hotel,Lausanne,46.541011,6.658181,,143,4
+29429541,AMERON Davos Swiss Mountain Resort,Davos,46.802470,9.832069,,148,4.5
+30260128,LCB Hotel Fuenlabrada,Fuenlabrada,40.283014,-3.800922,,132,4
+30265820,Clarion Hotel Helsinki,Helsinki,60.160056,24.921462,Nordic Hotels,425,4.5
+30298740,Scandic Meilahti Helsinki,Helsinki,60.190725,24.911668,Scandic Hotels,188,4
+30306141,Park Inn by Radisson Brussels Airport,Diegem,50.882786,4.448568,Park Inn,162,4.0
+30321854,Hard Rock Hotel Davos,Davos,46.797134,9.822987,Hard Rock Hotels,80,4.5
+30348359,Seiler au Lac,Interlaken,46.688659,7.897582,,42,4
+30359300,X Hotel,Lillestrom,59.984670,10.973662,,432,3
+30392210,Hôtel Mercure Paris Gennevilliers,Gennevilliers,48.941826,2.305012,Mercure,144,4
+30393486,Holiday Inn Express London Heathrow T4 by IHG,Hounslow,51.459071,-0.443305,Holiday Inn Express,457,3
+30525689,Atrium Hotel Heathrow,Feltham,51.466610,-0.420610,,570,4
+30528663,Holiday Inn Express Luzern - Kriens by IHG,Kriens,47.113726,8.233762,Holiday Inn Express,160,3.0
+30531988,Santa's Hotel Rakka,Kilpisjärvi,69.018170,20.875250,,22,4
+30562802,Northern Lights Village Levi,Kittila,67.915216,24.554345,,40,4
+30712050,Hotel Silberhorn,Lauterbrunnen,46.598550,7.906280,,30,3
+30774880,De France by Thermalhotels,Leukerbad,46.378910,7.629730,,45,4
+30800138,Lindstrøm Hotel,LAERDAL,61.097700,7.480800,,86,4
+30834970,IntercityHotel Graz,Graz,47.070903,15.418337,IntercityHotels,229,4
+30842976,ARCOTEL HafenCity Dresden,Dresden,51.068628,13.730920,,183,4.5
+30881051,"Jungfrau Lodge, Annex Crystal",Grindelwald,46.622930,8.039420,,20,3
+31018065,BERGWELT GRINDELWALD | ALPINE DESIGN RESORT,Grindelwald,46.623940,8.039380,,90,4.5
+31093245,"The Florian Amsterdam Schiphol Airport, WorldHotels Crafted",Hoofddorp,52.291336,4.719876,,150,4
+31137928,Grand Plaza Hotel and Congress Centre,Ljubljana,46.056741,14.505816,,354,5
+31145401,Afterwork Hotel,Etoy,46.475190,6.410609,,136,4.0
+31158636,AARDO - Kind of a Hotel - Self Check-In,Döttingen,47.558286,8.252096,,75,4
+31195058,YOTEL Geneva Lake,Founex,46.339713,6.165982,,237,4
+31197575,IntercityHotel Heidelberg,Heidelberg,49.404972,8.675844,,198,0.0
+31199932,Zleep Hotel Zürich-Kloten,Kloten,47.449296,8.582950,,90,3
+31204025,Novotel Paris Val de Fontenay,Fontenay-sous-Bois,48.852754,2.486774,,90,4.0
+31223567,Tribe Paris Clichy,Clichy,48.903954,2.302878,,120,4.0
+hmid,hotel_name,city,latitude,longitude,brand,number_of_rooms,stars
+25445176,DoubleTree by Hilton London Docklands Riverside,London,51.504245,-0.033501,DoubleTree by Hilton,378,4
+25470498,Novotel London Excel,London,51.507663,0.023830,Novotel,257,4
+25466370,Ramada by Wyndham London North M1,London,51.629147,-0.263876,Ramada Worldwide,195,3
+25454012,Copthorne Tara Hotel London Kensington,London,51.498498,-0.190869,Millennium & Copthorne Hotels,833,4
+25469540,Ibis London Excel Docklands,London,51.508301,0.021805,ibis,278,3
+29781201,Hilton London Bankside,London,51.505672,-0.101175,Hilton Hotels,292,4.0
+27335801,Novotel London Wembley,London,51.562270,-0.279680,Novotel,235,4
+26009781,Scandic Örebro Väst,Örebro,59.274931,15.177006,Scandic Hotels,212,3
+25468804,Scandic Solli Oslo,Oslo,59.913878,10.721390,Scandic Hotels,226,3.5
+25468859,Scandic St Olavs Plass,Oslo,59.918175,10.739833,Scandic Hotels,241,3.5
+25457961,Scandic Holberg,Oslo,59.919150,10.734140,Scandic Hotels,133,3.5
+28851161,Scandic Oslo City,Oslo,59.911987,10.749246,Scandic Hotels,175,3
+25455197,Scandic Byporten,Oslo,59.911847,10.752697,Scandic Hotels,239,3
+25441923,Novotel Paris Centre Tour Eiffel,Paris,48.849838,2.283233,Novotel,764,4
+25443419,ibis Paris 17 Clichy-Batignolles,Paris,48.892176,2.314838,ibis,688,3
+25443750,NH Paris Opéra Faubourg,Paris,48.875362,2.341471,NH Hotels,103,4
+25437045,The Westin Grand Munich,Munich,48.152250,11.617312,Westin,627,5
+25437063,"Cardo Roma, Autograph Hotel",Rome,41.842915,12.471811,Autograph Collection Hotels,324,4
+25437138,Sheraton Grand Salzburg,Salzburg,47.806997,13.040719,Sheraton,168,5
+25437152,Hotel Praga,Madrid,40.394154,-3.707749,Santos Hotels,420,4
+25437203,Meliá White House,London,51.525433,-0.143646,Meliá,581,4
+25437365,Doubletree by Hilton Luxembourg,Luxembourg,49.640025,6.147387,DoubleTree by Hilton,345,4
+25437402,NH Madrid Ventas,Madrid,40.435542,-3.663830,NH Hotels,199,4
+25437750,Crowne Plaza Rome-St. Peter's Hotel & Spa by IHG,Rome,41.888836,12.425739,Crowne Plaza,307,4
+25437769,Holiday Inn Munich - South by IHG,Munich,48.094678,11.515848,Holiday Inn,320,4
+25438810,Hotel Emperador,Madrid,40.421455,-3.708134,,232,4
+25439070,Hotel Chamartin The One,Madrid,40.471914,-3.683574,Husa Hotels,378,4
+25439274,Mercure Paris Montmartre Sacré Coeur,Paris,48.885271,2.330073,Mercure,305,4
+25439280,Mercure Paris Porte d'Orléans,Montrouge,48.817672,2.329079,Mercure,188,4
+25439343,Bettoja Hotel Massimo D'Azeglio,Rome,41.900057,12.499222,,185,4
+25439707,Mercure Porto Centro Santa Catarina,Porto,41.145408,-8.607630,Mercure,147,4
+25439874,Holiday Inn Naples by IHG,Neapel,40.858040,14.284778,Holiday Inn,295,4
+25440304,Hilton Zurich Airport,Opfikon,47.436981,8.571838,Hilton Hotels,323,4
+25440335,Hilton Rotterdam,Rotterdam,51.923619,4.477131,Hilton Hotels,254,5
+25440340,Hilton Strasbourg,Strasbourg,48.596894,7.755143,Hilton Hotels,245,4
+25440737,Senator Barajas Hotel,Madrid,40.458646,-3.582399,,301,4
+25440752,Le Méridien Paris Arc De Triomphe,Paris,48.879481,2.284989,Le Meridien,1025,4
+25440845,Holiday Inn Glasgow Airport by IHG,Paisley,55.863429,-4.433886,Holiday Inn,300,3
+25440908,Hôtel Aston La Scala,Nice,43.698061,7.272107,,149,4
+25440972,Pullman Paris Montparnasse Hotel,Paris,48.838347,2.320765,Pullman Hotels & Resorts,957,4
+25441055,Paris Marriott Opera Ambassador,Paris,48.872573,2.336918,Marriott,297,4
+25441408,Royal Continental Hotel Naples,Naples,40.830076,14.246918,,397,4
+25441441,Hotel Eisenhut,Rothenburg ob der Tauber,49.376743,10.178077,,75,4.0
+25441541,NH Napoli Panorama,Naples,40.842398,14.252223,NH Hotels,230,4
+25441567,Holiday Inn Munich - City Centre by IHG,Munich,48.130599,11.589601,Holiday Inn,582,4.0
+25441755,Novotel Luxembourg Kirchberg,Luxemburg,49.621015,6.145601,Novotel,260,4
+25441958,Novotel Dijon Sud,Marsannay La Cote,47.279559,5.008065,Novotel,120,4
+25442142,NH München Messe,Munich,48.139654,11.642965,NH Hotels,253,4
+25442526,Congress Hotel Mercure Nürnberg an der Messe,Nuremberg,49.424025,11.106888,Mercure,140,4
+25443128,Maritim Hotel München,Munich,48.138420,11.558861,Maritim Hotels,349,4
+25443130,Maritim Hotel Stuttgart,Stuttgart,48.780533,9.166559,Maritim Hotels,555,0.0
+25443643,"Radisson Blu Hotel, Nice",Nice,43.684470,7.234937,Radisson Blu,331,4
+25444537,Mercure Nancy Centre Place Stanislas Hotel,Nancy,48.692010,6.180367,Mercure,80,4
+25444829,NH Geneva Airport,Meyrin,46.227954,6.085727,NH Hotels,190,4
+25444874,TRH Mijas,Mijas,36.598282,-4.633985,TRH Hotels,204,4
+25444966,Vienna House by Wyndham Diplomat Prague,Prague,50.099884,14.389736,Wyndham Hotels,398,4.5
+25445039,Melia Castilla,Madrid,40.461380,-3.692100,Meliá,909,4
+25445040,Melia Madrid Princesa,Madrid,40.427048,-3.714350,Meliá,273,5
+25445242,Madrid Marriott Hotel Princesa Plaza,Madrid,40.429750,-3.714680,Marriott,423,4
+25445260,Mercure Nice Centre Notre Dame,Nice,43.703601,7.266683,Mercure,198,4
+25445311,NH Nice,Nice,43.707640,7.282747,NH Hotels,152,4
+25445928,Mercure Paris Gare de Lyon Opéra Bastille,Paris,48.846868,2.372820,Mercure,49,4
+25446219,NH Prague City,Prague,50.071356,14.396847,NH Hotels,308,4.5
+25446366,UNA Hotels Century Milano,Milan,45.484981,9.199359,Una Hotels,144,4
+25446703,Hotel ILUNION Alcora Sevilla,San Juan de Aznalfarache,37.370015,-6.032999,Ilunion Hotels,401,4
+25446746,Mercure Hotel München Süd Messe,Munich,48.102332,11.659426,Mercure,185,4
+25446976,NH Pisa,Pisa,43.709044,10.399010,NH Hotels,100,4
+25447864,Nobu London Portman Square,London,51.515950,-0.157891,,249,5
+25448105,Mercure Hotel Stuttgart Airport Messe,Stuttgart,48.712254,9.165870,Mercure,148,4
+25448305,ibis Styles Paris Gare de l'Est Château Landon,Paris,48.879213,2.362227,ibis Styles,163,3.0
+25448379,Crowne Plaza Milan - Linate by IHG,San Donato Milanese,45.421053,9.250425,Crowne Plaza,436,4
+25448399,BELSTAY ROMA AURELIA,Rome,41.887566,12.401950,Holiday Inn,246,4
+25448473,Belstay Milano Linate,Peschiera Borromeo,45.450513,9.290518,Holiday Inn,142,4.0
+25449037,Ambassador Zlatá husa,Prague,50.083781,14.424698,TOP Hotels,162,5.0
+25449289,Holiday Inn Stuttgart by IHG,Stuttgart,48.821488,9.094031,Holiday Inn,320,4
+25449650,Quality Hotel Sogndal,Sogndal,61.230510,7.098380,Nordic Hotels,226,4
+25450127,Wyndham Grand Salzburg Conference Centre,Salzburg,47.815334,13.043891,Wyndham Grand,262,4
+25450824,Holiday Inn Reading South M4 Jct11 by IHG,Reading,51.421132,-0.970391,Holiday Inn,202,3
+25451684,"The Palace, a Luxury Collection Hotel, Madrid",Madrid,40.415187,-3.695043,Luxury Collection,470,5
+25451691,"Hotel Goldener Hirsch, A Luxury Collection Hotel, Salzburg",Salzburg,47.799948,13.040949,Luxury Collection,70,5
+25452492,Four Points by Sheraton Munich Arabellapark,Munich,48.151102,11.618294,Four Points,446,4
+25452746,Mercure Hotel München Neuperlach Süd,Munich,48.092118,11.644223,Mercure,253,4.0
+25452975,Leonardo Hotel Milan City Center,Milan,45.482368,9.175693,Leonardo Hotels,131,4
+25453027,"Grand Hotel Suisse Majestic, Autograph Collection",Montreux,46.434600,6.909944,Autograph Collection Hotels,155,4.5
+25453035,Paris Marriott Rive Gauche Hotel &amp; Conference Center,Paris,48.831659,2.340073,Marriott,757,4.0
+25453227,Hotel Nice Riviera,Nice,43.700082,7.269527,,120,4
+25453228,ibis Styles Paris Nation Porte De Montreuil,Paris,48.855124,2.409537,ibis Styles,60,3
+25453691,Radisson Hotel Nice Airport,Nice,43.667352,7.208920,Radisson,151,4
+25454008,Millennium Hotel Paris Charles de Gaulle,Roissy-en-France,49.005757,2.520491,Millennium & Copthorne Hotels,239,4
+25455662,NH Frankfurt Airport West,Raunheim,50.014618,8.460019,NH Hotels,306,4.0
+25455996,Ramada Graz by Wyndham,Premstätten,46.976007,15.427315,Ramada Worldwide,114,4
+25456317,NH Noordwijk Conference Centre Leeuwenhorst,Noordwijkerhout,52.251829,4.473240,NH Hotels,513,4.5
+25456742,Mövenpick Zürich Regensdorf,Regensdorf,47.431234,8.467686,Mövenpick Hotels & Resorts,149,4
+25456923,Port Azafata,Manises,39.488075,-0.468557,,128,4
+25457149,Hotel Astoria Luzern,Luzern,47.048139,8.305545,,252,4
+25457209,Barceló Sevilla Renacimiento,Sevilla,37.409858,-5.995727,Barceló Hotels,295,5
+25457890,Sofitel Le Scribe Paris Opéra,Paris,48.870395,2.329721,Sofitel,201,5
+25458145,Hotel Saphir,Lyon,45.768204,4.803466,Best Western Hotels & Resorts,110,3
+25458190,Orida Hotel Newbury,Newbury,51.450998,-1.311316,DoubleTree by Hilton,113,4
+25458212,Crystal Hotel,St. Moritz,46.497986,9.838614,,74,4.5
+25458382,Crowne Plaza Stratford Upon Avon by IHG,Stratford-upon-Avon,52.193212,-1.700755,Crowne Plaza,259,4
+25458447,Novotel Rouen Sud Zenith Parc Expo,Saint-Étienne-du-Rouvray,49.389750,1.059890,Novotel,132,4
+25458460,Novotel Avignon Nord,Sorgues,43.985455,4.888252,Novotel,100,3
+25458520,Nest Hotel Paris la Défense - MGallery Collection,París,48.888159,2.248415,MGallery,151,5
+25458804,ibis Paris Alésia Montparnasse 14ème,Paris,48.827443,2.321031,ibis,264,3
+25458813,ibis Paris Porte d'Orléans,Montrouge,48.817362,2.329402,ibis,402,3
+25458828,Golden Tulip Roissy Saint Witz,St. Witz,49.089047,2.556443,Golden Tulip Hotels,118,3
+25458839,ibis Styles Paris Roissy CDG,Roissy-en-France,49.007040,2.520548,ibis Styles,304,3
+25459168,Golden Tulip CDG Airport Roissy,Roissy-en-France,48.997963,2.516942,Golden Tulip Hotels,153,4
+25459438,Haymarket by Scandic,Stockholm,59.334689,18.061732,Scandic Hotels,401,4
+25459439,Novotel Marne-La-Vallée Noisy-Le-Grand,Noisy-le-Grand,48.837817,2.541715,Novotel,144,4
+25459559,Novotel Paris Orly Rungis Aéroport,Rungis,48.755011,2.350183,Novotel,180,4
+25459698,Hotel M.A. Sevilla Congresos,Seville,37.405517,-5.930010,Hoteles M.A.,200,4
+25459799,Hotel PULSE8,Prague,50.094389,14.454104,Pentahotels,227,4
+25461025,NH Roma Villa Carpegna,Rome,41.891847,12.438964,NH Hotels,201,4
+25461700,Radisson Hotel Zurich Airport,Rümlang,47.450957,8.540341,Radisson,211,4
+25462292,Mercure Eur Roma West,Mostacciano ,41.785775,12.434606,Mercure,215,4
+25462512,Mercure Paris Porte de Pantin,Pantin,48.890236,2.399373,Mercure,123,4
+25462705,Wyndham Garden Düsseldorf Mettmann,Mettmann,51.256389,6.952043,Wyndham Garden,136,4.0
+25462868,Holiday Inn Prague,Prague,50.061055,14.427275,Holiday Inn,254,3.5
+25463052,Best Western CTC Hotel Verona,San Giovanni Lupatoto,45.398880,11.015772,Best Western Hotels & Resorts,203,4
+25465193,Elite Palace Hotel & Spa,Stockholm,59.346298,18.039465,Elite Hotels of Sweden,284,4.5
+25465491,Albani Hotel Roma,Rome,41.915420,12.498421,,154,4
+25465869,Best Western Plus Hotel Bologna,Mestre,45.482913,12.231978,Best Western Plus,125,4
+25465962,Leonardo Hotel & Residenz München,Munich,48.113776,11.583832,Leonardo Hotels,270,4
+25465980,Hotel Macia Sevilla Kubb,Seville,37.390491,-5.983366,Macia Hotels,134,4
+25466176,Grand Hotel des Bains Kempinski St. Moritz,St. Moritz,46.482617,9.833808,Kempinski Hotels,184,5
+25466461,Elite Hotel Savoy,Malmö,55.607669,13.000155,Elite Hotels of Sweden,190,4.0
+25466569,Ramada by Wyndham Oxford,Oxford,51.737726,-1.096113,Ramada Worldwide,83,3
+25466726,Villa Pace Park Hotel Bolognese,Preganziol,45.633310,12.241366,Best Western Hotels & Resorts,95,4
+25467364,Madrid Marriott Auditorium Hotel &amp; Conference Center,Madrid,40.449096,-3.558696,Marriott,869,4
+25467427,NH Atlanta Rotterdam,Rotterdam,51.921074,4.479108,NH Hotels,215,4
+25468317,Royal Plaza Montreux,Montreux,46.440089,6.902812,,155,5
+25468422,Le Mirador Resort & Spa,Mont-Pélerin,46.481449,6.827099,Kempinski Hotels,63,5
+25468454,Grand Hotel Barone Di Sassj,Sesto San Giovanni,45.537705,9.230688,,147,4
+25468573,Hotel Duo & Wellness,Prague,50.126741,14.485914,,649,4
+25468603,Novotel Paris Roissy CDG Convention,Roissy-En-France,48.998863,2.517582,Novotel,295,4
+25469199,Sheraton Rome Parco de’ Medici,Rome,41.815540,12.409192,Sheraton,782,4
+25469269,Occidental Praha,Prague,50.043460,14.439415,Occidental Hotels & Resorts,230,4
+25469478,K+K Hotel Central Prague,Prague,50.087067,14.430886,K + K Hotels,127,4.0
+25469944,Novotel Roma Est,Rome,41.913611,12.617992,Novotel,149,4
+25470008,Parc Hotel Alvisse,Luxembourg,49.639948,6.154065,,320,4.5
+25470221,AC Hotel Sevilla Fórum by Marriott,Sevilla,37.408014,-5.945824,AC by Marriott,144,4
+25470447,Hotel Santa Maria,Ourem,39.629002,-8.672648,,173,4
+25470568,L'Hôtel du Collectionneur Paris,Paris,48.876791,2.307588,Hilton Hotels,496,5
+25470674,Novotel Venezia Mestre Castellana,Mestre,45.503144,12.234373,Novotel,215,4
+25471192,Hotel Nord Nuova Roma,Rome,41.901031,12.498300,,157,3
+25471479,Best Western Plus Park City Solna,Solna,59.359595,18.000632,Best Western Plus,256,4.0
+25471853,Mercure Paris Gare Montparnasse TGV,Paris,48.837810,2.318469,Mercure,354,4
+25472322,Charme,Prato,43.858113,11.098142,,72,4
+25472360,Hotel Delfino Venezia Mestre,Mestre,45.484346,12.241632,,126,4
+25473086,ibis Styles Luzern,Luzern,47.056733,8.311789,ibis Styles,115,3
+25473105,Hotel Mas Camarena,Paterna,39.546786,-0.455351,,143,4
+25473534,Antony Hotel - Venice Airport,Mestre,45.487190,12.299177,,114,4.5
+25473566,"Radisson Blu Hotel, Prague",Prague,50.077371,14.422441,Radisson Blu,160,5
+25473939,Precise House Montaperti Siena,Siena,43.300910,11.423570,,95,4
+25474362,Hotel Puerta América,Madrid,40.440662,-3.670057,,315,5
+25475240,Santa's Hotel Santa Claus,Rovaniemi,66.502594,25.732448,,170,4
+25475713,Original Sokos Hotel Viru,Tallinn,59.436606,24.754997,Sokos Hotels,516,4
+25476231,Grandium Hotel Prague,Prague,50.082239,14.429877,,365,4
+25476380,American Hotel,Pozzuoli,40.827724,14.155428,,104,4
+25476499,pentahotel Reading,Reading,51.454983,-0.978084,Pentahotels,206,4
+25476761,Hotel Panorama,Lourdes,43.096181,-0.054894,Vinuales hotels,106,4
+25476763,Hotel Saint Sauveur,Lourdes,43.096126,-0.054575,Vinuales hotels,168,3
+25476785,Hotel La Solitude,Lourdes,43.095976,-0.052843,Vinuales hotels,293,4
+25477656,"Radisson Blu Hotel, Lucerne",Lucerne,47.048005,8.313913,Radisson Blu,189,4.5
+25477683,Hotel Diana Roof Garden,Rome,41.900776,12.497302,,166,4
+25478370,Four Points by Sheraton Siena,Siena,43.340969,11.326030,Four Points,136,4
+25479106,Mercure Paris CDG Airport & Convention,Roissy-en-France,49.007508,2.548967,Mercure,345,4
+25479321,Crowne Plaza Lyon - Cité Internationale by IHG,Lyon,45.785550,4.857222,Crowne Plaza,156,4
+25479342,Radisson RED Madrid,Madrid,40.409959,-3.693726,Radisson RED,260,4
+25479373,Grand Hotel Beauvau Marseille Vieux-Port - MGallery Collection,Marseille,43.295019,5.374744,MGallery,73,4
+25479498,Dorint Main Taunus Zentrum Frankfurt Sulzbach,Sulzbach/Taunus,50.123555,8.519878,Dorint Hotels & Resorts,282,4.5
+25480439,Rome Marriott Park Hotel,Rome,41.825235,12.391634,Marriott,601,4
+25480444,Courtyard by Marriott Munich City Center,Munich,48.137261,11.559607,Courtyard by Marriott,248,4
+25482437,Precise House Mantegna Roma,Rome,41.852769,12.495500,,323,4
+25482522,ROMANICO PALACE LUXURY HOTEL & SPA,Rome,41.908520,12.493606,,99,4
+25482652,Hotel Roma Tor Vergata,Rome,41.865987,12.630439,,211,4
+25483272,Courtyard By Marriott Pilsen,Plzen,49.748456,13.381886,Courtyard by Marriott,195,4
+25483334,Atrium Hotel,Split,43.518509,16.447392,,124,5
+25483414,Clarion Congress Hotel Prague,Prague,50.109901,14.501567,Clarion,559,4
+25484678,Zentral Castellana Norte,Madrid,40.488138,-3.668268,Occidental Hotels & Resorts,144,4
+25485069,Crowne Plaza Milan - Malpensa Airport by IHG,Somma Lombardo,45.642363,8.708498,Crowne Plaza,133,4
+25486148,Hotel Inn Paris CDG Airport,Roissy-en-France,49.005800,2.521500,,244,4
+25486152,Mercure Paris 19 Philharmonie La Villette,Paris,48.888836,2.394236,Mercure,182,4
+25487217,Alexandre FrontAir Congress,Sant Boi De Llobregat,41.329713,2.049985,,239,4
+25487545,Crowne Plaza Padova by IHG,Padova,45.454160,11.856895,Crowne Plaza,177,4
+25488219,NH Paris Gare de l'Est,Paris,48.875872,2.358971,NH Hotels,207,4
+25488224,DoubleTree by Hilton Milan,Milan,45.500880,9.138093,DoubleTree by Hilton,240,4
+25488417,Van der Valk Hotel Rotterdam-Blijdorp,Rotterdam,51.927063,4.441394,Van der Valk Hotels,189,4.5
+25488678,Crowne Plaza Brussels Airport by IHG,Machelen,50.890920,4.459674,Crowne Plaza,315,4
+25488813,H10 Roma Città,Rome,41.867140,12.471578,H10 Hotels,181,4.0
+25489037,Mercure Paris Massy Gare TGV,Massy,48.727507,2.264840,Mercure,116,4
+25489132,Crowne Plaza Hotel Manchester City Centre by IHG,Manchester,53.485752,-2.236625,Crowne Plaza,228,4
+25489225,Hotel Diagonal Plaza,Saragossa,41.642650,-0.993057,Santos Hotels,176,4
+25489336,Holiday Inn Mulhouse by IHG,Mulhouse,47.735767,7.290509,Holiday Inn,80,4
+25489493,UNA Hotels Expo Fiera Milano,Pero,45.502334,9.087100,,527,4
+25489978,Vienna House Easy by Wyndham Pilsen,Pilsen,49.746016,13.386845,Wyndham Hotels,144,4
+25491107,Santa's Hotel Tunturi,Saariselkä,68.420917,27.427490,,260,4
+25491518,Grandior Hotel Prague,Prague,50.090142,14.436013,,387,5
+25492425,Courtyard by Marriott Toulouse Airport,Saint Martin Du Touch - Toulouse,43.607651,1.370178,Courtyard by Marriott,187,4
+25492499,City Hotel Dresden Radebeul,Radebeul,51.105482,13.673446,GCH Hotel Group,126,3.5
+25495557,Grand Hotel Duca di Mantova,Sesto San Giovanni,45.550227,9.256791,,162,4
+25495712,UNA Hotels Decò Roma,Rome,41.900100,12.499980,Una Hotels,197,4
+25497106,Tailormade Hotel SIHLPARK Schindellegi,Schindellegi,47.168039,8.727479,Holiday Inn,78,3.5
+25497148,Pisa Tower Plaza,Pisa,43.722675,10.378994,,121,5
+25500167,Occidental Praha Five,Prague,50.066730,14.402534,Occidental Hotels & Resorts,134,4
+25501207,NH Luxembourg Airport,Niederanven,49.637293,6.218871,NH Hotels,148,4
+25503167,Hotel YIT Vía Sevilla Mairena,Mairena del Aljarafe,37.349589,-6.051043,YIT Hoteles,119,4
+25504267,NH Madrid Ribera del Manzanares,Madrid,40.406266,-3.721753,NH Hotels,224,4
+25504872,MOVE Hotels Venezia Nord,Mogliano Veneto,45.584341,12.286211,DoubleTree by Hilton,203,4
+25506392,Scandic Grand Central,Stockholm,59.333787,18.056014,Scandic Hotels,391,4
+25508181,Nira Alpina - Member of Design Hotels,Silvaplana,46.454714,9.814502,,70,4.5
+25516085,Hotel Kyriad Prestige Mulhouse - Basel,Sausheim,47.782513,7.387949,Kyriad Prestige,99,4
+25516313,"Elite Hotel Ideon, Lund",Lund,55.717695,13.213872,Elite Hotels of Sweden,178,4
+25520384,NH Maastricht,Maastricht,50.837755,5.713900,NH Hotels,277,4.5
+25520582,Warmthotel,Rome,41.812571,12.475334,,160,4
+25541981,"The Marble Arch Hotel, by Thistle",London,51.514386,-0.156414,Thistle Hotels,692,4
+25542001,The Cumberland,London,51.513773,-0.158910,Guoman Hotels,900,4
+25550281,The Caesar Roma,Rome,41.868790,12.411840,,229,4.0
+25558281,Les Jardins du Marais,Paris,48.860545,2.368003,,265,4
+25558441,Le patio Bastille,Paris,48.849336,2.390439,Best Western Hotels & Resorts,88,3
+25559701,Aparthotel Adagio La Défense Esplanade,Paris,48.887353,2.248194,Adagio by Accor,99,4.0
+25608001,Residence Inn by Marriott Munich City East,Munich,48.131530,11.608638,Residence Inn by Marriott,125,4
+25852461,Hotel Paradis,Lourdes,43.093525,-0.053135,,298,4
+25878161,Q7 Lodge Lyon 7,Lyon,45.739833,4.833121,Quality Hotels,97,4
+25913161,Scandic Star Sollentuna,Sollentuna,59.426840,17.951387,Scandic Hotels,270,4
+25997861,Best Western Hotel Brussels South,Ruisbroek,50.776023,4.300825,Best Western Hotels & Resorts,75,3.0
+26014481,Quality Hotel Globe,Stockholm,59.292783,18.083831,Nordic Hotels,527,4
+26033701,Hôtel des Bains de Saillon,Saillon,46.173277,7.195254,,145,4
+26053821,Hotel Sempachersee,Nottwill,47.139935,8.128000,Swiss Quality Hotels,150,4
+26092661,Parkhotel du Sauvage,Meiringen,46.726556,8.187853,,60,4
+26114921,Grand Hotel Europe,Luzern,47.055761,8.324867,,177,4
+26134581,Hotel Continental Park,Luzern,47.048612,8.308978,,86,4
+26168641,HF Ipanema Park,Porto,41.154675,-8.649970,,281,5
+26178061,Hotel Cinquentenário & Conference Center,Ourem,39.629313,-8.671025,,202,4
+26180061,Artheus Carmelitas Salamanca,Salamanca,40.968081,-5.667246,,69,4
+26197341,Prinzhotel Rothenburg,Rothenburg o.d. Tauber,49.377738,10.184010,,52,4
+26200581,HF Ipanema Porto,Porto,41.152600,-8.629853,,150,4
+26200641,Clarion Hotel Amaranten,Stockholm,59.331345,18.044813,Nordic Hotels,461,4
+26230701,Hotel Traube Rüdesheim,Rüdesheim am Rhein,49.977838,7.919612,,112,0.0
+26232081,The REMIX hotel,Paris,48.896941,2.385244,,259,4
+26234061,Original Sokos Hotel Vaakuna Rovaniemi,Rovaniemi,66.502072,25.736353,Sokos Hotels,159,4
+26242241,Hotel San Gian,Sankt Moritz,46.484580,9.834695,,50,4
+26326801,Hotel Laudinella,St. Moritz,46.485967,9.837353,,65,4.0
+26334781,Lapland Hotels Riekonlinna,Saariselkä,68.421471,27.426216,Hand Picked Hotels,232,3.5
+26530179,"Madrid Airport Suites, Affiliated by Meliá",Madrid,40.445617,-3.543173,Meliá,549,3.5
+26652061,Hôtel Nendaz 4 Vallées & Spa,Nendaz,46.180971,7.290163,,62,4.5
+26659501,Hotel Reine Victoria,St. Moritz,46.485205,9.835849,,147,4
+27184181,Holiday Inn Express Strasbourg - Centre by IHG,Strasbourg,48.571623,7.745827,Holiday Inn Express,148,3
+27201361,"FourSide Hotel Salzburg Messe, Trademark Collection by Wyndham",Salzburg,47.822047,13.027733,Trademark Collection by Wyndham,165,4
+27206401,Scandic Stavanger City,Stavanger,58.970522,5.743697,Scandic Hotels,226,4
+27321081,Scandic No 53,Stockholm,59.334253,18.059174,Scandic Hotels,274,3
+27523381,Hôtel Forest Hill Paris Meudon-Vélizy,Meudon-la-Forêt,48.784864,2.225223,,171,4
+28017581,Hotel Arcade,Sins,47.187400,8.396722,,63,3
+28979601,Golf Depandance,Prague,50.067500,14.344678,,45,4
+29050041,BLEECKER Hotels,Novi Beograd,44.811638,20.387591,,95,3.5
+29405861,Hilton Garden Inn Malaga,Málaga,36.689190,-4.459969,Hilton Garden Inn,155,4
+29626221,Santa's Hotel Rudolf,Rovaniemi,66.505298,25.718957,,41,3
+30259913,Hôtel Lodge In Paris 13,Paris,48.821037,2.376333,,145,3
+30260319,Pullman Paris Roissy CDG Airport,Roissy,49.010702,2.562033,Pullman Hotels & Resorts,305,4
+30278272,Santa's Hotel Aurora & Igloos,Luosto,67.154844,26.911655,,40,2.5
+30295246,Bären Sigriswil,Sigriswil,46.717175,7.712423,,29,4
+30295617,HUUS Gstaad,Saanen-Gstaad,46.493254,7.267145,,136,4.5
+30295901,Hotel The Building,Rome,41.907679,12.503067,,108,4
+30301569,Boutet Bastille Hotel Paris - MGallery Collection,Paris,48.851894,2.383767,MGallery,80,5
+30310115,Four Points by Sheraton Venice Mestre,Mestre,45.514440,12.231580,Four Points,168,4
+30337115,Elite Hotel Carolina Tower,Solna,59.348627,18.030750,Elite Hotels of Sweden,221,4
+30342638,"Staycity Aparthotels, Marseille, Centre Vieux Port",Marseille,43.300317,5.374407,,108,3
+30345054,Northern Lights Village Saariselkä,Saariselkä,68.423260,27.408290,,80,4
+30371861,NH Collection Marseille,Marseille,43.302421,5.368634,NH Hotels,176,4
+30377094,NYX Hotel Munich by Leonardo Hotels,Munich,48.102316,11.529844,Leonardo Hotels,225,4
+30421385,Hotel Jezero Plitvice Lakes,Plitvička Jezera,44.884405,15.618966,,229,3
+30421926,Villa Fiorita,Monastier di Treviso,45.654700,12.427476,,136,4
+30461714,Santa's Igloos Arctic Circle,Rovaniemi,66.543039,25.859449,,71,5
+30475062,Courtyard by Marriott Munich Garching,Muenchen,48.264807,11.672290,Courtyard by Marriott,256,4
+30495839,Briig Boutique Hotel,Split,43.503340,16.445930,,62,4
+30533579,Best Western Plus Aby Hotel,Mölndal,57.650899,12.003262,Best Western Plus,223,4
+30533596,Courtyard by Marriott Oxford South,Milton,51.619811,-1.300903,Courtyard by Marriott,170,4
+30534443,Hilton Garden Inn Zurich Limmattal,Spreitenbach,47.418000,8.377466,Hilton Garden Inn,116,4
+30552640,AMERON Neuschwanstein Alpsee Resort & Spa,Schwangau,47.554416,10.737626,,136,4.5
+30564739,Amphora Hotel,Split,43.502900,16.480600,,206,4
+30574863,"ANDAZ MUNICH SCHWABINGER TOR, BY HYATT",Munich,48.171661,11.586402,Andaz,554,5
+30575853,nhow London,London,51.529480,-0.097250,nhow,190,4
+30579699,Leonardo Royal Hotel Venice Mestre,Mestre,45.481580,12.237940,Leonardo Hotels,243,4
+30643747,Hilton Garden Inn Massy,Massy,48.725486,2.262003,Hilton Garden Inn,152,4
+30664328,Arctic SnowHotel & Glass Igloos,Rovaniemi,66.638211,25.342707,,30,2.5
+30680049,YOTEL Porto,Porto,41.153679,-8.608781,,150,4
+30843558,"Radisson Blu Hotel, Rouen Centre",Rouen,49.446586,1.094210,Radisson Blu,93,4.0
+30865104,Myrkdalen Resort Hotel,Myrkdalen,60.856632,6.490977,,111,4
+31022139,Moxy Sion,Sion,46.230681,7.384391,Moxy,143,3
+31084237,IntercityHotel Zurich Airport,Ruemlang,47.451931,8.538656,,260,4
+31096919,Appart'City Collection Saint Germain en Laye,Saint-Germain-en-Laye,48.903147,2.073494,Appart'city,146,4
+31129685,Too Hotel & Spa Paris - MGallery Collection,Paris,48.825133,2.383124,,134,4
+31152833,Renaissance Porto Lapa Hotel,Porto,41.157726,-8.614373,,163,4.5
+31153310,harry’s home Zürich-Limmattal,Spreitenbach,47.424839,8.369596,,95,4
+31159089,Tribe Paris Saint Ouen,Saint-Ouen,48.913823,2.335962,,109,4
+31204345,Appart'city Paris Collection Paris Roissy CDG Airport,Roissy-en-France,48.999288,2.510068,,265,4
+31212608,Hotel Porta Cervino,Taesch,46.069396,7.776718,,41,4.0
+31228787,Novotel Paris La Défense Nanterre,Nanterre,48.896309,2.219330,,0,4.0
+hmid,hotel_name,city,latitude,longitude,brand,number_of_rooms,stars
+31145429,IntercityHotel Geneva,Vernier,46.220012,6.103126,,270.0,4
+25505803,Crowne Plaza Verona Fiera by IHG,Verona,45.410778,10.970132,Crowne Plaza,160.0,4
+25470625,NH Vienna Airport Conference Center,Vienna,48.121676,16.562863,NH Hotels,499.0,4
+25475568,Renaissance®  Vienna Schönbrunn Hotel,Vienna,48.184332,16.329946,Renaissance Hotels,305.0,4
+25451315,NH Danube City,Vienna,48.235307,16.421919,NH Hotels,252.0,4.5
+25437369,The Westin Zagreb,Zagreb,45.806864,15.964186,Westin,349.0,5
+25439287,Mercure Paris Porte de Versailles Expo,Vanves,48.827043,2.291358,Mercure,388.0,4
+25439288,Scandic Ishavshotel,Tromsø,69.649446,18.961941,Scandic Hotels,214.0,3
+25439720,"CHC Continental, BW Premier Collection",Venice,45.442272,12.323870,BW Premier Collection,93.0,4
+25439877,Scandic Helsinki Aviapolis,Vantaa,60.297297,24.961807,Scandic Hotels,306.0,4
+25441409,Splendid Venice – Starhotels Collezione,Venice,45.435894,12.337475,Starhotels,165.0,4
+25443416,Crowne Plaza Zürich by IHG,Zürich,47.380189,8.506329,Crowne Plaza,365.0,4
+25444455,Hotel Carlton on the Grand Canal,Venice,45.439944,12.321870,,150.0,4
+25445220,Sheraton Zagreb Hotel,Zagreb,45.807610,15.984525,Sheraton,306.0,5
+25445230,Hotel Am Konzerthaus - MGallery Collection,Vienna,48.199693,16.377418,MGallery,208.0,4.5
+25445843,ARCOTEL Wimberger Wien,Vienna,48.200486,16.338429,Arcotel Hotels,225.0,4
+25446234,Novotel Wroclaw Centrum,Wroclaw,51.098355,17.024328,Novotel,191.0,4
+25447108,Mercure Warszawa Centrum,Warsaw,52.230752,21.001082,Mercure,338.0,4
+25448475,Hotel Beatriz Toledo Auditorium & Spa,Toledo,39.877576,-4.041735,,295.0,4
+25449198,Scandic Tampere Hämeenpuisto,Tampere,61.492984,23.754045,Scandic Hotels,178.0,3
+25449199,Scandic Tampere Koskipuisto,Tampere,61.499076,23.766037,Scandic Hotels,289.0,3
+25451011,Grand Hotel Zagreb,Zagreb,45.799092,15.878840,,163.0,4.0
+25451321,InterContinental Vienna by IHG,Vienna,48.201997,16.379076,InterContinental Hotels & Resorts,392.0,5
+25456410,Belstay Venezia Mestre,Venice,45.474334,12.213580,Holiday Inn,188.0,4
+25456916,Sol Principe,Torremolinos,36.631432,-4.490163,Sol Hotels & Resorts,799.0,4
+25457721,ibis Zurich Messe-Airport,Zurich,47.415725,8.559079,ibis,252.0,3
+25457770,Skyline Airport Hotel,Vantaa,60.288992,24.950101,,214.0,3.5
+25458239,Hilton Garden Inn Marseille Provence Airport,Vitrolles,43.446500,5.227440,Hilton Garden Inn,178.0,4
+25458492,Scandic Helsinki Aviacongress,Vantaa,60.296494,24.961742,Scandic Hotels,278.0,3
+25458739,Mercure Tours Centre Gare et Congrès,Tours,47.386844,0.697809,Mercure,92.0,4
+25460934,ibis Styles Tours Centre,Tours,47.379484,0.691996,ibis Styles,119.0,3
+25465330,Holiday Inn Toulouse Airport by IHG,Toulouse - Blagnac,43.638921,1.376955,Holiday Inn,150.0,4
+25467900,Le Grand Hotel Tours,Tours,47.389882,0.692554,,105.0,4
+25468465,Zonar Zagreb by Maistra City Vibes,Zagreb,45.805802,15.952556,,285.0,4
+25468550,The Westin Warsaw,Warsaw,52.235634,20.996673,Westin,366.0,5
+25469888,Ramada by Wyndham Wakefield,Wakefield,53.682934,-1.548378,Ramada Worldwide,100.0,3
+25471611,SOWELL HÔTELS Le Beach,Trouville-sur-Mer,49.365559,0.077345,Soleil Vacances,110.0,4
+25472098,NH Valencia Las Artes,Valencia,39.455696,-0.357406,NH Hotels,174.0,4
+25472478,"Grand Hotel Belvedere, a Beaumier Hotel",Wengen,46.608809,7.919190,,90.0,5.0
+25474542,"Hotel Bristol, a Luxury Collection Hotel, Vienna",Vienna,48.202485,16.370294,Luxury Collection,150.0,5
+25476777,Hilton Molino Stucky Venice,Venice,45.428413,12.319992,Hilton Hotels,379.0,5
+25477816,Hôtel Mercure Lyon Centre Charpennes Parc De La Tête d'Or,Villeurbanne,45.770903,4.863395,Mercure,98.0,4
+25477979,Santana Hotel & Spa,Vila Do Conde,41.350731,-8.735413,,75.0,4
+25480193,Novotel Warszawa Centrum,Warsaw,52.229268,21.013417,Novotel,742.0,4
+25480492,Hotel International by Maistra City Vibes,Zagreb,45.799052,15.974137,,207.0,4
+25486161,Ruissalo Spa Hotel,Turku,60.426620,22.102400,,170.0,4
+25488664,Hotel Senator,Vienna,48.219551,16.325431,,179.0,4
+25488673,Hotel Rainers,Vienna,48.179243,16.362376,,179.0,4
+25493062,von Stackelberg Hotel Tallinn,Tallinn,59.434709,24.732947,,54.0,4
+25495118,Hotel Porcel Avant Torrejon,Torrejón de Ardoz,40.445580,-3.488200,Hoteles Porcel,78.0,3
+25500343,Walton Hall Hotel & Spa by Sunday,Walton,52.169334,-1.582142,Mercure,149.0,4
+25505112,Hotel Kolovare,Zadar,44.105496,15.235720,,203.0,4
+25738521,Hotel Derby,Zermatt,46.022651,7.747386,,28.0,3
+25880381,Hotel Baia Azzurra,Taormina,37.855779,15.300254,,50.0,3.5
+25907681,NH Weinheim,Weinheim,49.543040,8.647664,NH Hotels,187.0,4
+26118821,Senator Parque Central Hotel,Valencia,39.457589,-0.375504,,192.0,4
+26134761,Alpen Resort & Spa Zermatt,Zermatt,46.026207,7.751883,Best Western Hotels & Resorts,26.0,4
+26174041,Antares Hotel,Zermatt,46.015674,7.743246,,36.0,4
+26174181,Boutique Hotel Albana Real - Restaurants & Spa,Zermatt,46.017981,7.747670,,38.0,4
+26196641,Hotel Ambassador Zermatt,Zermatt,46.025046,7.749800,,84.0,4
+26200921,Austria Trend Hotel Ananas,Vienna,48.191636,16.354517,Austria Trend Hotels,522.0,3.5
+26204861,Austria Trend Hotel Bosei,Vienna,48.162940,16.340393,Austria Trend Hotels,202.0,4
+26228541,Hotel Villa Esperia,Taormina,37.857079,15.300422,,60.0,4
+26292201,Feringapark Hotel by Coffee Fellows Hotels,Unterfoehring,48.178868,11.632258,,175.0,4
+26318921,Break Sokos Hotel Flamingo,Vantaa,60.290824,24.969830,Sokos Hotels,309.0,4
+26328501,Mont Cervin Palace,Zermatt,46.021055,7.747266,Leading Hotels Of The World,150.0,5
+26375381,The Christiania Mountain & Spa Resort,Zermatt,46.023381,7.752706,,72.0,4
+26419361,Eventhotel Pyramide,Vösendorf,48.113148,16.312557,Austria Trend Hotels,458.0,4
+26498121,"National Zermatt – Matterhorn Views, Sunnegga Gateway & SPA",Zermatt,46.022782,7.751334,,54.0,4.5
+26655461,Swiss Alpine Hotel Allalin,Zermatt,46.019068,7.747568,,30.0,4
+26655701,Hotel Elite,Zermatt,46.021355,7.748567,,21.0,3
+26716741,Hotel YIT Conquista de Toledo,Toledo,39.857567,-4.021886,YIT Hoteles,45.0,3
+26799441,Hotel Matterhorn Inn,Täsch,46.067144,7.775911,,29.0,3
+27164281,Alpenblick,Zermatt,46.017231,7.744175,,40.0,3.0
+27611161,Park Hotel Zug,Zug,47.172195,8.518911,,109.0,4
+27684201,Hotel Seepark Thun,Thun,46.745120,7.633823,,91.0,4
+28774541,Grand Hôtel et Centre Thermal,Yverdon-les-Bains,46.771486,6.649523,,115.0,4.0
+29251721,"Kameha Grand Zurich, Autograph Collection",Zürich,47.422580,8.558612,Autograph Collection Hotels,245.0,4.5
+29747921,Brakanes Hotel,Ulvik,60.566561,6.914336,,142.0,4
+30297790,Hotel YIT Vereda Real,Valencina de la Concepción,37.404232,-6.076816,YIT Hoteles,67.0,4
+30340506,Holiday Inn Villingen - Schwenningen by IHG,Villingen-Schwenningen,48.062913,8.500917,Holiday Inn,167.0,4
+30526048,Mercure Zürich City,Zürich,47.393393,8.484563,Mercure,319.0,4
+30560954,harry's home Zürich Wallisellen,Wallisellen,47.415620,8.588970,,123.0,3
+30630348,Hilton Garden Inn Zagreb - Radnicka,Zagreb,45.804348,15.998643,Hilton Garden Inn,153.0,4
+30632289,Naco Aparthotel by Arca Spa,Zermatt,46.025930,7.750742,,25.0,4
+30651678,Scandic Voss,Voss,60.628700,6.410357,Scandic Hotels,215.0,4
+30669741,"Boeira Garden Hotel Porto Gaia, Curio Collection by Hilton",Vila Nova de Gaia,41.127980,-8.612567,Curio Collection by Hilton,124.0,5
+30710669,Hotel Albatros Zermatt,Zermatt,46.016710,7.748280,,20.0,4
+30847139,Hotel Eden Wellness,Zermatt,46.018490,7.749400,,30.0,4
+31074902,Hilton Porto Gaia,Vila Nova de Gaia,41.135800,-8.618450,Hilton Hotels,194.0,5
+31104164,Welcome Hotel Täsch,Tasch,46.071913,7.777612,,,3
+31197505,lyf Schönbrunn Vienna,Wien,48.168649,16.319851,,162.0,4.0
+31201739,Hampton by Hilton Vienna City West,Vienna,48.186662,16.335832,Hampton by Hilton,355.0,3.0
+31204277,Tribe Milano Malpensa,Vizzola Ticino,45.627650,8.702000,,240.0,4.0
+31221241,Pullman Zagreb,Zagreb,45.755982,15.991316,,193.0,4.0
