@@ -357,6 +357,7 @@ function buildStatsTable(rows, dateColumns) {
 function loadSummary(outputRoot) {
   const candidatePaths = [
     path.join(outputRoot, "reference_sheets", "kuoni_hotel_summary.csv"),
+    path.join(outputRoot, "web", "reference_sheets", "kuoni_hotel_summary.csv"),
     path.join(outputRoot, "app", "sheets", "kuoni_hotel_summary.csv"),
   ];
   const summaryPath = candidatePaths.find((candidate) => fs.existsSync(candidate));
