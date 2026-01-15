@@ -1,0 +1,33 @@
+{
+  "created_at": "2026-01-14T18:22:27",
+  "progress": {
+    "last_check_in": "2027-01-19",
+    "last_check_out": "2027-01-23",
+    "last_hmid": 31221241,
+    "last_lead_days": 364,
+    "rows_written": 36835
+  },
+  "search_params": {
+    "batch_size": 5,
+    "currency": "EUR",
+    "filtered_hmid_count": 695,
+    "hmi_end_index": 1000,
+    "hmi_start_index": 0,
+    "hotel_limit": 1000,
+    "hotel_summary_csv": "sheets/kuoni_hotel_summary.csv",
+    "lead_end": 365,
+    "lead_start": 0,
+    "lead_step": 7,
+    "map_id": 211432,
+    "occupancy": 2,
+    "reference_lat": 47.38267720100731,
+    "reference_lon": 8.520690686218302,
+    "reference_radius_m": 20000,
+    "rooms": 10,
+    "start_date": "2026-01-20",
+    "stay_len": 4,
+    "target_hmid_count": 695
+  },
+  "status": "completed",
+  "updated_at": "2026-01-15T04:35:12"
+}
