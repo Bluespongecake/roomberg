@@ -105,13 +105,20 @@ function sortIndicator(sortKey, activeKey, sortDir) {
   return sortDir === "asc" ? "▲" : "▼";
 }
 
-export default function HeatmapTable({ columns, rows }) {
+export default function HeatmapTable({ columns, rows, hideUnavailable = false }) {
   const [sortKey, setSortKey] = useState("hmid");
   const [sortDir, setSortDir] = useState("asc");
 
+  const visibleRows = useMemo(() => {
+    if (!hideUnavailable) {
+      return rows;
+    }
+    return rows.filter((row) => Number.isFinite(row.coverage) && row.coverage > 0);
+  }, [rows, hideUnavailable]);
+
   const sortedRows = useMemo(
-    () => sortRows(rows, sortKey, sortDir),
-    [rows, sortKey, sortDir]
+    () => sortRows(visibleRows, sortKey, sortDir),
+    [visibleRows, sortKey, sortDir]
   );
 
   const handleSort = (nextKey) => {

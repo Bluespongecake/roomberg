@@ -1,7 +1,9 @@
 /** @type {import("next").NextConfig} */
 const nextConfig = {
-  outputFileTracingIncludes: {
-    "/": ["reference_sheets/**"],
+  experimental: {
+    outputFileTracingIncludes: {
+      "/": ["reference_sheets/**"],
+    },
   },
 };
 
