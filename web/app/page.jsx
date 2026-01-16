@@ -29,7 +29,10 @@ export default function Page() {
 
         <div className="landing-actions">
           <Link href="/heatmap" className="landing-button">
-            Heatmap
+            Price Heatmap
+          </Link>
+          <Link href="/availability-heatmap" className="landing-button">
+            Availability
           </Link>
           <Link href="/start-job" className="landing-button">
             Jobs

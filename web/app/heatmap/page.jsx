@@ -11,7 +11,7 @@ export default function HeatmapPage({ searchParams }) {
       <main className="app-shell">
         <section className="hero">
           <div>
-            <p className="pill">Roomberg Heatmap</p>
+            <p className="pill">Roomberg Price Heatmap</p>
             <h1 className="hero-title">No data found</h1>
             <p className="hero-subtitle">
               Add a batch under output_sheets or pass ?batch=YYYY_mon_dd.
@@ -31,8 +31,8 @@ export default function HeatmapPage({ searchParams }) {
       </nav>
       <section className="hero">
         <div>
-          <p className="pill">Roomberg Heatmap</p>
-          <h1 className="hero-title">Kuoni Pricing Pulse</h1>
+          <p className="pill">Roomberg Price Heatmap</p>
+          <h1 className="hero-title">Kuoni Price Heatmap</h1>
           <p className="hero-subtitle">
             Updated: {data.batchSlug} - {data.rows.length} hotels - {data.columns.length} stay dates
           </p>

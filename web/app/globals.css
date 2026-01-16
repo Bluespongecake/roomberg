@@ -123,6 +123,40 @@ body {
   color: var(--muted);
 }
 
+.params-form {
+  margin-bottom: 20px;
+}
+
+.params-form .stat-card {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  align-items: stretch;
+}
+
+.param-input {
+  background: #0f0f0f;
+  border: 1px solid #222222;
+  color: var(--ink);
+  padding: 8px 10px;
+  font-family: inherit;
+  text-align: center;
+}
+
+.param-input:focus-visible {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 1px var(--accent);
+}
+
+.param-actions {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
 .table-wrap {
   background: var(--panel);
   border-radius: var(--radius-lg);
@@ -179,8 +213,8 @@ body {
   color: var(--cell-text);
   font-variant-numeric: tabular-nums;
   background: #000000;
-  height: 28px;
-  max-height: 28px;
+  height: 40px;
+  max-height: 40px;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -234,6 +268,8 @@ body {
 
 .heatmap-table th.col-hmid,
 .heatmap-table td.col-hmid,
+.heatmap-table th.col-kuoni,
+.heatmap-table td.col-kuoni,
 .heatmap-table th.col-coverage,
 .heatmap-table td.col-coverage,
 .heatmap-table th.col-city,
@@ -246,6 +282,12 @@ body {
 .heatmap-table td.col-hmid {
   width: 140px;
   min-width: 140px;
+}
+
+.heatmap-table th.col-kuoni,
+.heatmap-table td.col-kuoni {
+  width: 160px;
+  min-width: 160px;
 }
 
 /* Fixed widths for the left label columns. */
@@ -270,6 +312,12 @@ body {
 .cell-number {
   color: var(--cell-text);
   font-weight: 600;
+}
+
+.cell-missing {
+  background: #050505;
+  color: var(--muted);
+  text-align: center;
 }
 
 .cell-error {

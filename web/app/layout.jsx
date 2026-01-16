@@ -9,8 +9,8 @@ const plexMono = IBM_Plex_Mono({
 });
 
 export const metadata = {
-  title: "Roomberg Heatmap",
-  description: "Roomberg pricing heatmap view",
+  title: "Roomberg Price Heatmap",
+  description: "Roomberg price heatmap view",
 };
 
 export default function RootLayout({ children }) {

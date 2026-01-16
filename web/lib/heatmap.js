@@ -356,6 +356,9 @@ function buildStatsTable(rows, dateColumns) {
 
 function loadSummary(outputRoot) {
   const candidatePaths = [
+    path.join(outputRoot, "kuoni_hotel_summary_with_kuoni.csv"),
+    path.join(outputRoot, "reference_sheets", "kuoni_hotel_summary_with_kuoni.csv"),
+    path.join(outputRoot, "web", "reference_sheets", "kuoni_hotel_summary_with_kuoni.csv"),
     path.join(outputRoot, "reference_sheets", "kuoni_hotel_summary.csv"),
     path.join(outputRoot, "web", "reference_sheets", "kuoni_hotel_summary.csv"),
     path.join(outputRoot, "app", "sheets", "kuoni_hotel_summary.csv"),
@@ -371,7 +374,11 @@ function loadSummary(outputRoot) {
     if (!record.hmid) {
       return;
     }
-    map.set(String(record.hmid).trim(), record.city || "");
+    const hmid = String(record.hmid).trim();
+    const kuoniId = String(
+      record.kuoni_id || record.kuoniId || record.hotel_id || ""
+    ).trim();
+    map.set(hmid, { city: record.city || "", kuoniId });
   });
   return map;
 }
@@ -440,10 +447,12 @@ export function loadHeatmapData(batchSlug) {
       ? 1 - (naCount + errorCount) / dateColumns.length
       : 0;
 
+    const summary = summaryMap.get(hmid);
     return {
       hmid,
+      kuoniId: summary?.kuoniId || "",
       coverage,
-      city: summaryMap.get(hmid) || "",
+      city: summary?.city || "",
       values,
     };
   });

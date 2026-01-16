@@ -93,6 +93,9 @@ function sortRows(rows, sortKey, sortDir) {
     if (sortKey === "city") {
       return compareStrings(a.city || "", b.city || "") * direction;
     }
+    if (sortKey === "kuoniId") {
+      return compareStrings(a.kuoniId || "", b.kuoniId || "") * direction;
+    }
     return compareStrings(a.hmid || "", b.hmid || "") * direction;
   });
   return sorted;
@@ -147,6 +150,18 @@ export default function HeatmapTable({ columns, rows, hideUnavailable = false })
                 </span>
               </button>
             </th>
+            <th className="col-kuoni" aria-sort={sortKey === "kuoniId" ? sortDir : "none"}>
+              <button
+                type="button"
+                className={`header-button ${sortKey === "kuoniId" ? "is-active" : ""}`}
+                onClick={() => handleSort("kuoniId")}
+              >
+                Kuoni ID
+                <span className="sort-indicator">
+                  {sortIndicator(sortKey, "kuoniId", sortDir)}
+                </span>
+              </button>
+            </th>
             <th
               className="col-coverage"
               aria-sort={sortKey === "coverage" ? sortDir : "none"}
@@ -185,6 +200,7 @@ export default function HeatmapTable({ columns, rows, hideUnavailable = false })
           {sortedRows.map((row) => (
             <tr key={row.hmid}>
               <td className="col-hmid">{row.hmid}</td>
+              <td className="col-kuoni">{row.kuoniId || "-"}</td>
               <td
                 className="col-coverage"
                 style={{ backgroundColor: coverageToColor(row.coverage) }}
